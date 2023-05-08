@@ -2,7 +2,7 @@ Olá!
 
 Este é o arquivo README para o projeto que utiliza as ferramentas Yarn e Expo. Para rodar o projeto é necessário ter o Node.js instalado.
 
-Instruções para o <h1>Backend<h1>
+Instruções para o Backend
 Na pasta do backend, rode o comando yarn para instalar todas as dependências do projeto.
 Crie um arquivo .env na raiz do projeto com a seguinte variável: BASE_URL=http://localhost:3000. O valor http://localhost:3000 é apenas um exemplo, substitua pelo valor correspondente à sua configuração.
 Rode o comando yarn dev para iniciar o servidor em modo de desenvolvimento.
